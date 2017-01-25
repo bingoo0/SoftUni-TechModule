@@ -1,0 +1,5 @@
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\3. Greeting\bin\Debug\_3.Greeting.exe.config
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\3. Greeting\bin\Debug\_3.Greeting.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\3. Greeting\bin\Debug\_3.Greeting.pdb
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\3. Greeting\obj\Debug\_3.Greeting.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\3. Greeting\obj\Debug\_3.Greeting.pdb

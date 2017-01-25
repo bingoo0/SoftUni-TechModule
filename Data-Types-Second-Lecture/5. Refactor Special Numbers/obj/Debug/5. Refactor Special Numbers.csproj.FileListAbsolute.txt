@@ -1,0 +1,6 @@
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\5. Refactor Special Numbers\bin\Debug\_5.Refactor_Special_Numbers.exe.config
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\5. Refactor Special Numbers\bin\Debug\_5.Refactor_Special_Numbers.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\5. Refactor Special Numbers\bin\Debug\_5.Refactor_Special_Numbers.pdb
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\5. Refactor Special Numbers\obj\Debug\5. Refactor Special Numbers.csprojResolveAssemblyReference.cache
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\5. Refactor Special Numbers\obj\Debug\_5.Refactor_Special_Numbers.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\5. Refactor Special Numbers\obj\Debug\_5.Refactor_Special_Numbers.pdb

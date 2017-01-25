@@ -1,0 +1,6 @@
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\2. Triples of Latin Letters\bin\Debug\_2.Triples_of_Latin_Letters.exe.config
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\2. Triples of Latin Letters\bin\Debug\_2.Triples_of_Latin_Letters.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\2. Triples of Latin Letters\bin\Debug\_2.Triples_of_Latin_Letters.pdb
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\2. Triples of Latin Letters\obj\Debug\2. Triples of Latin Letters.csprojResolveAssemblyReference.cache
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\2. Triples of Latin Letters\obj\Debug\_2.Triples_of_Latin_Letters.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data-Types-Second-Lecture\2. Triples of Latin Letters\obj\Debug\_2.Triples_of_Latin_Letters.pdb

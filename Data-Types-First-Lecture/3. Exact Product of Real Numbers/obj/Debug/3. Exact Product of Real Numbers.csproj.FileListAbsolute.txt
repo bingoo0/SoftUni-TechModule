@@ -1,0 +1,6 @@
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\3. Exact Product of Real Numbers\bin\Debug\_3.Exact_Product_of_Real_Numbers.exe.config
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\3. Exact Product of Real Numbers\bin\Debug\_3.Exact_Product_of_Real_Numbers.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\3. Exact Product of Real Numbers\bin\Debug\_3.Exact_Product_of_Real_Numbers.pdb
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\3. Exact Product of Real Numbers\obj\Debug\_3.Exact_Product_of_Real_Numbers.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\3. Exact Product of Real Numbers\obj\Debug\_3.Exact_Product_of_Real_Numbers.pdb
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\3. Exact Product of Real Numbers\obj\Debug\3. Exact Product of Real Numbers.csprojResolveAssemblyReference.cache

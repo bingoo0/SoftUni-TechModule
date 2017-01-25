@@ -1,0 +1,5 @@
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\4. Transport\bin\Debug\_4.Transport.exe.config
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\4. Transport\bin\Debug\_4.Transport.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\4. Transport\bin\Debug\_4.Transport.pdb
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\4. Transport\obj\Debug\_4.Transport.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\4. Transport\obj\Debug\_4.Transport.pdb

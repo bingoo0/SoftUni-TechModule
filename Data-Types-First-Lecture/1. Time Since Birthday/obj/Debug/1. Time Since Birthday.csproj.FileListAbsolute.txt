@@ -1,0 +1,6 @@
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\1. Time Since Birthday\bin\Debug\_1.Time_Since_Birthday.exe.config
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\1. Time Since Birthday\bin\Debug\_1.Time_Since_Birthday.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\1. Time Since Birthday\bin\Debug\_1.Time_Since_Birthday.pdb
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\1. Time Since Birthday\obj\Debug\1. Time Since Birthday.csprojResolveAssemblyReference.cache
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\1. Time Since Birthday\obj\Debug\_1.Time_Since_Birthday.exe
+E:\Other\Информатика\HTML Exercises\Problem-1-News\Data Types1\1. Time Since Birthday\obj\Debug\_1.Time_Since_Birthday.pdb

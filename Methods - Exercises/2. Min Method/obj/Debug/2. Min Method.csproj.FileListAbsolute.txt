@@ -1,0 +1,5 @@
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods - Exercises\2. Min Method\bin\Debug\_2.Min_Method.exe.config
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods - Exercises\2. Min Method\bin\Debug\_2.Min_Method.exe
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods - Exercises\2. Min Method\bin\Debug\_2.Min_Method.pdb
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods - Exercises\2. Min Method\obj\Debug\_2.Min_Method.exe
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods - Exercises\2. Min Method\obj\Debug\_2.Min_Method.pdb

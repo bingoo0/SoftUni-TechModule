@@ -1,0 +1,5 @@
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods Defining and Calling Methods\2. Sign of Integer Number\bin\Debug\_2.Sign_of_Integer_Number.exe.config
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods Defining and Calling Methods\2. Sign of Integer Number\bin\Debug\_2.Sign_of_Integer_Number.exe
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods Defining and Calling Methods\2. Sign of Integer Number\bin\Debug\_2.Sign_of_Integer_Number.pdb
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods Defining and Calling Methods\2. Sign of Integer Number\obj\Debug\_2.Sign_of_Integer_Number.exe
+c:\users\bingoo0\documents\visual studio 2015\Projects\Methods Defining and Calling Methods\2. Sign of Integer Number\obj\Debug\_2.Sign_of_Integer_Number.pdb

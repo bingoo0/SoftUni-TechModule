@@ -20,8 +20,6 @@ namespace _4.Rotate_Array_of_Strings
                   rotatedArray[i + 1] = array[i];
             }
 
-            
-
             var result = string.Join(" ", rotatedArray);
             Console.WriteLine(result);
         }

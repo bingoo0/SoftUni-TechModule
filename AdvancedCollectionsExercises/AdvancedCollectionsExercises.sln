@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Shellbound", "1. Shellbound\1. Shellbound.csproj", "{8597F6BD-A6B9-42A6-BD96-FF22E7B49DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Dict-Ref-Advanced", "2. Dict-Ref-Advanced\2. Dict-Ref-Advanced.csproj", "{F801B59C-0ED3-4D5B-89F0-2CB40AE9A2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Forum Topics", "3. Forum Topics\3. Forum Topics.csproj", "{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8597F6BD-A6B9-42A6-BD96-FF22E7B49DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8597F6BD-A6B9-42A6-BD96-FF22E7B49DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8597F6BD-A6B9-42A6-BD96-FF22E7B49DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8597F6BD-A6B9-42A6-BD96-FF22E7B49DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F801B59C-0ED3-4D5B-89F0-2CB40AE9A2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F801B59C-0ED3-4D5B-89F0-2CB40AE9A2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F801B59C-0ED3-4D5B-89F0-2CB40AE9A2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F801B59C-0ED3-4D5B-89F0-2CB40AE9A2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

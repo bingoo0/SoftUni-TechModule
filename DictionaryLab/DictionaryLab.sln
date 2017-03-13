@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Odd Occurrences", "2. Odd Occurrences\2. Odd Occurrences.csproj", "{DF0916A4-CB2E-4B87-8A43-05030E4C7532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Count Real Numbers", "1. Count Real Numbers\1. Count Real Numbers.csproj", "{930CC726-D74D-46B5-A368-8B122DDF21B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0916A4-CB2E-4B87-8A43-05030E4C7532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0916A4-CB2E-4B87-8A43-05030E4C7532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0916A4-CB2E-4B87-8A43-05030E4C7532}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0916A4-CB2E-4B87-8A43-05030E4C7532}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{DF0916A4-CB2E-4B87-8A43-05030E4C7532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0916A4-CB2E-4B87-8A43-05030E4C7532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930CC726-D74D-46B5-A368-8B122DDF21B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930CC726-D74D-46B5-A368-8B122DDF21B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930CC726-D74D-46B5-A368-8B122DDF21B1}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{930CC726-D74D-46B5-A368-8B122DDF21B1}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{930CC726-D74D-46B5-A368-8B122DDF21B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930CC726-D74D-46B5-A368-8B122DDF21B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

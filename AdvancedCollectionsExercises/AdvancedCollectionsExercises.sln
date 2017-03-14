@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Dict-Ref-Advanced", "2. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Forum Topics", "3. Forum Topics\3. Forum Topics.csproj", "{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Social Media Posts", "4. Social Media Posts\4. Social Media Posts.csproj", "{3503A8FF-FB08-4556-8043-5F5382BC2E57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53ACA9A3-9ED4-486A-A44D-8FE75C1994DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3503A8FF-FB08-4556-8043-5F5382BC2E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3503A8FF-FB08-4556-8043-5F5382BC2E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3503A8FF-FB08-4556-8043-5F5382BC2E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3503A8FF-FB08-4556-8043-5F5382BC2E57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
